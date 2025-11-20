@@ -46,12 +46,3 @@ export async function DELETE(request, { params }) {
   
   return NextResponse.json({ success: true });
 }
-```
-
-**6. .gitignore**
-```
-node_modules/
-.next/
-.DS_Store
-*.log
-data.json
