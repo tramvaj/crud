@@ -1,6 +1,6 @@
 export const metadata = {
     title: 'CRUD',
-    description: 'HD's CRUD application',
+    description: 'HDs CRUD application',
   }
   
   export default function RootLayout({ children }) {
